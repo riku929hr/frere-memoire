@@ -7,5 +7,4 @@ parameters:
 	paths:
 		- app
 		- database
-		- laravel
 		- tests
